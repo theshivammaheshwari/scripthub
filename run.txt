@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "$env:USERPROFILE\Desktop\Lab_ML_Setup.ps1"
